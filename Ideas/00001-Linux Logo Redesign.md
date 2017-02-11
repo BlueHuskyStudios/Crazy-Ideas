@@ -5,7 +5,9 @@
 Motivation
 ----------
 
-The idea came to me when I saw the current Linux logo*. It's hideous. It stands out from the other logos in a bad way. It's way too detailed; a child should be able to draw your logo. Worst of all, it looks terrible at icon size or in monochrome. So, I set out to make a logo I think would fit Linux better in the modern age.
+<img src="http://i.imgur.com/Ge4xmaw.png" align="right"/>
+
+The idea came to me when I seriously thought about the current Linux logo\*. It's cute and iconic! Look at that cute guy. He sure makes a good mascot! Maybe not so much a good logo, though. As a logo, it's hideous. It stands out from the other logos in a bad way. It's way too detailed; **a child should be able to draw your logo**. Worst of all, it looks terrible at icon size or in monochrome. So, I set out to make a logo I think would fit Linux better in the modern age.
 
 Others agree:
 
