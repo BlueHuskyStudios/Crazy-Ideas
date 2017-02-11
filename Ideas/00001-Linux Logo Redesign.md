@@ -51,7 +51,7 @@ Note that the background is _Below Clouds_ by kobinho, a wallpaper available in 
 Advantages
 ----------
 
-### Scaling
+### Scaling ###
 
 This logo scales very nicely, much nicer than the traditional image of Tux. It is also intrinsicly black-and-white, whereas Tux requires color and does not have any official (or pretty) monochrome variant.
 
@@ -65,7 +65,12 @@ Here's a table showing this:
 | Tux (flat mono) | ![](https://i.imgur.com/p8pIA6k.png) | ![](https://i.imgur.com/7TidoxU.png) | ![](https://i.imgur.com/UPsvhKs.png) | ![](https://i.imgur.com/TuE9uiI.png) |
 
 
-### Creative Possibilities
+### Computation ###
+
+It's super easy to compute! As an SVG it's just a single path of 10 points: `M 4.5,3.5 8,7 11.5,3.5 M 1,7 H 15 M 1,7 8,14 15,7 11.5,3.5 h -7 z`, or `m 4.5,3.5 3.5,4 3.5,-4 m -11,4 h 15 m -15,0 7.5,6.5 7.5,-6.5 -4,-4 h -7 z` for very small sizes.
+
+
+### Creative Possibilities ###
 
 As I showed above, this can be used in more creative ways than just showing it plain. Here are a few more examples:
 
