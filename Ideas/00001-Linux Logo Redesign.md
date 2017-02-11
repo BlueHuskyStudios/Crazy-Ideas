@@ -74,10 +74,16 @@ It's super easy to compute! As an SVG it's just a single path of 10 points: `M 4
 
 As I showed above, this can be used in more creative ways than just showing it plain. Here are a few more examples:
 
-|      Separated solid triangles       |
-| :----------------------------------: |
-| ![](https://i.imgur.com/ubHmUN1.png) |
-| This is bold, like a stamp or an alien insignia, implying power over grace |
+|      Separated solid triangles       |         1980s-style CD case          |
+| :----------------------------------: | :----------------------------------: |
+| ![](https://i.imgur.com/axbMG61.png) | ![](https://i.imgur.com/LEXE1Je.png) |
+| This variant is bold, like a stamp or an alien insignia, implying power over grace | The super-simple shape lets it seamlessly blend into the art styles of any era! |
+
+#### Credits ####
+
+ - Grid-and-lightning background by unknown artist
+ - [Streamster](https://www.behance.net/gallery/24474623/Streamster-Typeface) by [Youssef-Habchi](https://www.behance.net/Youssef-Habchi)
+ - [Alien Encounters](http://www.shyfoundry.com/fonts/shareware/sfalienenc.html) by [ShyFoundry.com](http://www.shyfoundry.com/)
 
 Disadvantages
 -------------
