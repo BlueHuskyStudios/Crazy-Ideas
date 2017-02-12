@@ -19,7 +19,7 @@ Others agree:
 
 Additionally, there were once contests for the Linux logo, and I can't find them or their results anywhere online. All that survived was Tux, who [didn't win any of them](https://en.wikipedia.org/wiki/Tux#Origins).
 
-<sup>*There's apparently no official logo, just the mascot, Tux.</sup>
+<sup>*There's apparently no official logo, just the mascot, Tux. So we can keep him as the mascot if a logo is adopted.</sup>
 
 
 Current State
