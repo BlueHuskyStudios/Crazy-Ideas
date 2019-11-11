@@ -17,7 +17,7 @@ Others agree:
  - [/r/Linux - _Any takers for this logo? Any comments?_](https://www.reddit.com/r/linux/comments/4emzy4/any_takers_for_this_logo_any_comments/)
  - And many more...
 
-Additionally, there were once contests for the Linux logo, and I can't find them or their results anywhere online. All that survived was Tux, who [didn't win any of them](https://en.wikipedia.org/wiki/Tux#Origins).
+Additionally, there were once [contests](https://www.cs.earlham.edu/~jeremiah/linux-pix/linux-logo.html) for the Linux logo, and I can't find them or their results anywhere online. All that survived was Tux, who [didn't win any of them](https://en.wikipedia.org/wiki/Tux_(mascot)#Origins).
 
 <sup>*There's apparently no official logo, just the mascot, Tux. So we can keep him as the mascot if a logo is adopted.</sup>
 
@@ -68,6 +68,66 @@ Here's a table showing this:
 ### Computation ###
 
 It's super easy to compute! As an SVG it's just a single path of 10 points: `M 4.5,3.5 8,7 11.5,3.5 M 1,7 H 15 M 1,7 8,14 15,7 11.5,3.5 h -7 z`, or `m 4.5,3.5 3.5,4 3.5,-4 m -11,4 h 15 m -15,0 7.5,6.5 7.5,-6.5 -4,-4 h -7 z` for very small sizes.
+
+
+### ASCII ###
+
+Many linux distributions, like [Arch](https://www.archlinux.org/), are meant to be run from the command line. Even those which are dsitributed with a desktop environment, like [Ubuntu](https://ubuntu.com/), are often run headlessly, especially when being used as a server. This is a great reason to put some sweet ASCII art of the logo in there when it boots!
+
+Let's see how Tux looks:
+
+```
+                                  |                         |                  .88888888:.
+                                  |                         |                 88888888.88888.
+                                  |                         |               .8888888888888888.
+                                  |                         |               888888888888888888
+                                  |                         |               88' _`88'_  `88888
+              .-"""-.             |                         |               88 88 88 88  88888
+             '       \            |                         |               88_88_::_88_:88888
+            |,.  ,-.  |           |                         |               88:::,::,:::::8888
+            |()L( ()| |           |          #####          |               88`:::::::::'`8888
+            |,'  `" | |           |         #######         |              .88  `::::'    8:88.
+            |.___.',| `           |         ##O#O##         |             8888            `8:888.
+           .j `--"' `  `.         |         #VVVVV#         |           .8888'             `888888.
+          / '        '   \        |       ##  VVV  ##       |          .8888:..  .::.  ...:'8888888:.
+         / /          `   `.      |      #          ##      |         .8888.'     :'     `'::`88:88888
+        / /            `    .     |     #            ##     |        .8888        '         `.888:8888.
+       / /              1   |     |     #            ###    |       888:8         .           888:88888
+      . ,               |   |     |    QQ#           ##Q    |     .888:88        .:           888:88888:
+      ,"`.             .|   |     |  QQQQQQ#       #QQQQQQ  |     8888888.       ::           88:888888
+   _.'   ``.          | `..-'1    |  QQQQQQQ#     #QQQQQQQ  |     `.::.888.      ::          .88888888
+  |       `.`,        |      `.   |    QQQQQ#######QQQQQ    |    .::::::.888.    ::         :::`8888'.:.
+  |         `.    __.j         )  |                         |   ::::::::::.888   '         .::::::::::::
+  |__        |--""___|      ,-'   |                         |   ::::::::::::.8    '      .:8::::::::::::.
+     `"--...,+""""   `._,.-'      |                         |  .::::::::::::::.        .:888:::::::::::::
+                                  |                         |  :::::::::::::::88:.__..:88888:::::::::::'
+                                  |                         |   `'.:::::::::::88888888888.88:::::::::'
+                                  |                         |         `':::_:' -- '' -'-' `':_::::'`
+```
+<sup>Left: Original by [Dabo](https://daboblog.com/2008/02/22/va-de-ascii-art/)</sup>
+<sup>Center: Original by [Teepublci](https://www.teepublic.com/kids-t-shirt/4139240-linux-tux-the-penguin-ascii-art)</sup>
+<sup>Right: Original by [Teepublci](https://www.teepublic.com/t-shirt/4143861-linux-tux)</sup>
+
+These are... hm. Well, the right one is most easily identifiable as Tux, the left one is an okay representation (if not a little like Homer Simpson), but the middle one is really a stretch; you'd have to know it's supposed to be Tux in order to see it.
+
+Obviously, many have attempted this whose work is not represented above, but at the end of the day it's apparent that Tux is hard to represent in small ASCII art.
+
+
+Let's take a look at the diamond logo:
+
+```
+                 |             |     .:.`:::::::'.:.
+    _______      |             |   .:::::.`:::'.:::::.
+  /  \   /  \    |    .....    |  ''''''''' ' '''''''''
+/______V______\  |  .'_`.'_`.  |   `:::::::::::::::::'
+ \           /   |   `.   .'   |     `:::::::::::::'
+   \       /     |     `.'     |       `:::::::::'
+     \   /       |             |         `:::::'
+       v         |             |           `:'
+```
+
+This logo translates well to small ASCII art, thanks to its simple design. Even the worst of these is still recognizable as the diamond Linux logo.
+
 
 
 ### Creative Possibilities ###
